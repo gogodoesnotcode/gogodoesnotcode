@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently exploring llm agents.<br>🌱 I’m currently learning CSE at PES UNiversity.<br>⚡ Fun fact: I actually do like to code.
+🔭 Currently exploring llm agents.<br>🌱 I’m currently learning CSE at PES UNiversity.<br>
 
 
 ## 🌐 Socials:
